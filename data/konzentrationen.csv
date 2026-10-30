@@ -1,0 +1,40 @@
+datei;farbstoff;methode;spalte;stufe;konzentration_mol_l;hinweis
+louvert2.txt;Fast Green FCF;externe Kalibrierung;1;0;0;Leerwert/Stufe 0
+louvert2.txt;Fast Green FCF;externe Kalibrierung;2;1;1.36E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;3;2;2.72E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;4;3;4.06E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;5;4;5.38E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;6;5;6.69E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;7;6;7.99E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;8;7;9.28E-06;
+louvert2.txt;Fast Green FCF;externe Kalibrierung;9;8;1.06E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;1;0;0;Leerwert/Stufe 0
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;2;1;6.47E-06;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;3;2;1.29E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;4;3;1.92E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;5;4;2.55E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;6;5;3.17E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;7;6;3.78E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;8;7;4.39E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;9;8;4.99E-05;
+loujaune1.txt;Quinoline Yellow;externe Kalibrierung;10;;;10. Spektrum ohne Konzentrationsangabe im Artikel, nicht verwenden
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;1;;;Leerwert
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;2;0;0;Probe ohne Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;3;1;1.09E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;4;2;2.18E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;5;3;3.26E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;6;4;4.33E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;7;5;5.39E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;8;6;6.45E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;9;7;7.50E-06;Zugabe
+Vert fichier.csv;Fast Green FCF;Standardaddition in Mundspuelung;10;8;8.55E-06;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;1;;;Leerwert
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;2;0;0;Probe ohne Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;3;1;5.17E-06;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;4;2;1.03E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;5;3;1.54E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;6;4;2.05E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;7;5;2.55E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;8;6;3.05E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;9;7;3.55E-05;Zugabe
+Jaune fichier.csv;Quinoline Yellow;Standardaddition in Mundspuelung;10;8;4.04E-05;Zugabe
