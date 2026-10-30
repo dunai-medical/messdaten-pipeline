@@ -19,5 +19,6 @@ a = p.parse_args()
 e = werte_aus(a.datei, a.wellenlaenge, ohne_spalten=tuple(a.ohne))
 for b in e.befunde:
     print(b)
-ziel = erstelle_bericht(e, Path("berichte") / f"{Path(a.datei).stem}_{a.wellenlaenge:g}nm.pdf", QUELLE)
+zusatz = f"_ohne{'-'.join(map(str, a.ohne))}" if a.ohne else ""
+ziel = erstelle_bericht(e, Path("berichte") / f"{Path(a.datei).stem}_{a.wellenlaenge:g}nm{zusatz}.pdf", QUELLE)
 print(f"R² = {e.kalibrierung.r2:.5f}, LOD = {e.kalibrierung.nachweisgrenze:.2e} mol/L -> {ziel}")

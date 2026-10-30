@@ -13,4 +13,9 @@ Die Rohdateien sind unverändert. Die Konzentrationen in `konzentrationen.csv` s
 Tabelle A1 und A2 des Artikels. Die Zuordnung Datei/Spalte -> Konzentration ist eine eigene
 Ableitung (geprüft über die Steigung im Vergleich zu Tabelle 1 und 2 des Artikels).
 
+Ebenfalls abgeleitet: `figure2.csv` Spektrum 1 ist die Mundspuelung, die nur Fast Green
+enthaelt (im Artikel "LIF"). Stuetze: der daraus berechnete Bandenfaktor A(417)/A(626) = 0,116
+entspricht dem Wert F = 0,12 im Artikel. `figure2.csv` Spektrum 5 ist identisch mit
+`louvert2.txt` Spektrum 8 (doppelt abgelegt).
+
 Die Daten stammen weder von Aron Dunai-Kovács noch von einem früheren Arbeitgeber.
